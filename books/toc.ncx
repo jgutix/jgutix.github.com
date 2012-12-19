@@ -16,5 +16,5 @@
       </navLabel>
       <content src="ch000_introduction.xhtml"/>
     </navPoint>
-  </navMap>
+  <navpoint xmlns="http://www.w3.org/1999/xhtml" id="chapter3" playorder="3"><navlabel><text>test3</text></navlabel><content src="test3.xhtml"></content></navpoint></navMap>
 </ncx>
