@@ -11,21 +11,6 @@
         <text>Booktype Tracker for Dummies</text>
       </docTitle>
       <navMap>
-          
-        <navPoint id="chapter0" playOrder="-1">
-          <navLabel>
-            <text>Introduction</text>
-          </navLabel>
-          <content src="ch000_introduction.xhtml"/>
-        </navPoint>
-          </navMap>
-        
-        <navPoint id="chapter1" playOrder="0">
-          <navLabel>
-            <text>jgutix-test</text>
-          </navLabel>
-          <content src="jgutix-test.xhtml"/>
-        </navPoint>
           </navMap>
         
     </ncx>
