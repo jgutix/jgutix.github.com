@@ -1,20 +1,31 @@
-<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
-<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
-  <head>
-    <meta content="http://booki.cc/UNKNOWN/2012.12.13-23.27.37" name="dtb:uid"/>
-    <meta content="1" name="dtb:depth"/>
-    <meta content="0" name="dtb:totalPageCount"/>
-    <meta content="0" name="dtb:maxPageNumber"/>
-  </head>
-  <docTitle>
-    <text>Booktype Tracker for Dummies</text>
-  </docTitle>
-  <navMap>
-    <navPoint id="chapter0" playOrder="1">
-      <navLabel>
-        <text>Introduction</text>
-      </navLabel>
-      <content src="ch000_introduction.xhtml"/>
-    </navPoint>
-  <navpoint xmlns="http://www.w3.org/1999/xhtml" id="chapter3" playorder="3"><navlabel><text>test3</text></navlabel><content src="test3.xhtml"></content></navpoint></navMap>
-</ncx>
+
+    <!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+    <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+      <head>
+        <meta content="http://booki.cc/UNKNOWN/2012.12.13-23.27.37" name="dtb:uid"/>
+        <meta content="1" name="dtb:depth"/>
+        <meta content="0" name="dtb:totalPageCount"/>
+        <meta content="0" name="dtb:maxPageNumber"/>
+      </head>
+      <docTitle>
+        <text>Booktype Tracker for Dummies</text>
+      </docTitle>
+      <navMap>
+          
+        <navPoint id="chapter0" playOrder="-1">
+          <navLabel>
+            <text>Introduction</text>
+          </navLabel>
+          <content src="ch000_introduction.xhtml"/>
+        </navPoint>
+          </navMap>
+        
+        <navPoint id="chapter1" playOrder="0">
+          <navLabel>
+            <text>jgutix-test</text>
+          </navLabel>
+          <content src="jgutix-test.xhtml"/>
+        </navPoint>
+          </navMap>
+        
+    </ncx>
