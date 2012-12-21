@@ -11,6 +11,48 @@
         <text>Booktype Tracker for Dummies</text>
       </docTitle>
       <navMap>
-          </navMap>
+          
+        <navPoint id="chapter0" playOrder="1">
+          <navLabel>
+            <text>Introduction</text>
+          </navLabel>
+          <content src="Introduction.xhtml"/>
+        </navPoint>
         
+        <navPoint id="chapter1" playOrder="2">
+          <navLabel>
+            <text>Test Chapter 1</text>
+          </navLabel>
+          <content src="Test Chapter 1.xhtml"/>
+        </navPoint>
+        
+        <navPoint id="chapter2" playOrder="3">
+          <navLabel>
+            <text>Test3</text>
+          </navLabel>
+          <content src="Test3.xhtml"/>
+        </navPoint>
+        
+        <navPoint id="chapter3" playOrder="4">
+          <navLabel>
+            <text>Test4</text>
+          </navLabel>
+          <content src="Test4.xhtml"/>
+        </navPoint>
+        
+        <navPoint id="chapter4" playOrder="5">
+          <navLabel>
+            <text>Test4</text>
+          </navLabel>
+          <content src="Test4.xhtml"/>
+        </navPoint>
+        
+        <navPoint id="chapter5" playOrder="6">
+          <navLabel>
+            <text>new test</text>
+          </navLabel>
+          <content src="new test.xhtml"/>
+        </navPoint>
+        
+      </navMap>
     </ncx>
