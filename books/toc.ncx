@@ -33,5 +33,12 @@
           <content src="asdk.xhtml"/>
         </navPoint>
         
+        <navPoint id="chapter3" playOrder="4">
+          <navLabel>
+            <text>lfdd</text>
+          </navLabel>
+          <content src="lfdd.xhtml"/>
+        </navPoint>
+        
       </navMap>
     </ncx>
