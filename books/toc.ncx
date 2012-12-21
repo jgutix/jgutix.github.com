@@ -19,5 +19,12 @@
           <content src="asdf.xhtml"/>
         </navPoint>
         
+        <navPoint id="chapter1" playOrder="2">
+          <navLabel>
+            <text>fdsa</text>
+          </navLabel>
+          <content src="fdsa.xhtml"/>
+        </navPoint>
+        
       </navMap>
     </ncx>
