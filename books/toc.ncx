@@ -54,5 +54,12 @@
           <content src="new test.xhtml"/>
         </navPoint>
         
+        <navPoint id="chapter6" playOrder="7">
+          <navLabel>
+            <text>oauth</text>
+          </navLabel>
+          <content src="oauth.xhtml"/>
+        </navPoint>
+        
       </navMap>
     </ncx>
